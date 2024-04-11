@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 Not because a recruiter will see it, not even because it will help me in uni, but because there is a student who will actually appreciate it and will use a repo for one of his homeworks.
+
+📫 I really hope you'll find here your answers, but if not, or if something doesn't make any sense, feel free to contact me here: [Messenger](https://www.facebook.com/messages/t/100003166095895).
+
+🏫 FII, UAIC
+
 <!--
 **alinaduca/alinaduca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
