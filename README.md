@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Not because a recruiter will see it, not even because it will help me in uni, but because there is a student who will actually appreciate it and will use a repo for one of his homeworks.
+🔭 Not for a job hunt, not just for coursework, but to make learning easier for students.
 
 📫 I really hope you'll find here your answers, but if not, or if something doesn't make any sense, feel free to contact me here: [Messenger](https://www.facebook.com/messages/t/100003166095895).
 
