@@ -6,6 +6,8 @@
 
 🏫 FII, UAIC
 
+![Profile Views](https://komarev.com/ghpvc/?username=alinaduca&color=blue&style=flat-square)
+
 <!--
 **alinaduca/alinaduca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
